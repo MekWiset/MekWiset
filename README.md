@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mek Siriwat</h1>
 <h3 align="center">A passionate data engineer fresh grad</h3>
 
-- 🔭 I’m currently working on **AWS pipeline**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **AWS glue**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **swisetpakdeewong@gmail.com**
 
