@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mek Siriwat</h1>
 <h3 align="center">A passionate data engineer fresh grad</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mekwiset" alt="mekwiset" /></a> </p>
-
 - 🔭 I’m currently working on **AWS pipeline**
 
 - 🌱 I’m currently learning **AWS glue**
