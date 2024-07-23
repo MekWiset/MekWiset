@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mek Siriwat</h1>
 <h3 align="center">A passionate data engineer fresh grad</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on improving my github readme profile, will do once finished resurrecting my third project
 
 - 🌱 I’m currently learning ****
 
