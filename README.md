@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/](https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/)
 
+- ⭐️ View my resume [Click Here](https://drive.google.com/file/d/1ybxKM6oVlL__CFuezFNRLx7gY5dMTLZu/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/" height="30" width="40" /></a>
