@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mek Siriwat</h1>
-<h3 align="center">A passionate data engineer fresh grad</h3>
+<h3 align="center">A Passionate Junior Data Engineer</h3>
 
-- 🔭 I’m currently working on improving my github readme profile, will do once finished resurrecting my third project
+<p align="left">
+As a passionate Junior Data Engineer, I specialize in leveraging data to drive impactful insights and solutions. I thrive on solving complex data challenges and enjoy working with diverse technologies to optimize data pipelines and workflows. With a strong foundation in data engineering tools and methodologies, I am particularly interested in exploring advancements in data science, cloud computing, and big data analytics. 
 
-- 🌱 I’m currently learning ****
+My goal is to contribute to innovative projects that harness the power of data to create meaningful outcomes and drive progress in various industries.
+
+Feel free to adjust any part of this to better match your style or specific interests!
+</p>
 
 - 📫 How to reach me **swisetpakdeewong@gmail.com**
 
