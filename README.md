@@ -13,7 +13,7 @@ Feel free to adjust any part of this to better match your style or specific inte
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/](https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/)
 
-- ⭐️ View my resume [Click Here](https://drive.google.com/file/d/1ybxKM6oVlL__CFuezFNRLx7gY5dMTLZu/view)
+- ⭐️ View my resume [Click Here](https://drive.google.com/file/d/1UP6nrpnJiu_JMxbAWhsqxt13RWENKJbf/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
