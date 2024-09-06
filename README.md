@@ -3,7 +3,7 @@
 <p align="center">
     <img src="pic/banner2.png" alt="Banner" />
 </p>
-<h2 align="center">A Passionate Junior Data Engineer</h2>
+<!-- <h2 align="center">Junior Data Engineer</h2> -->
 
 <p align="left">
 As a passionate Junior Data Engineer, I specialize in leveraging data to drive impactful insights and solutions. I thrive on solving complex data challenges and enjoy working with diverse technologies to optimize data pipelines and workflows. With a strong foundation in data engineering tools and methodologies, I am particularly interested in exploring advancements in data science, cloud computing, and big data analytics. 
@@ -48,7 +48,7 @@ My goal is to contribute to innovative projects that harness the power of data t
 
 ### 1. [<u>LiquorSales Data Migration Pipeline</u>](https://github.com/MekWiset/LiquorSales_Data_Migration_Pipeline)
 - **ℹ️ Description:** Big Data Migration from GCP to Azure.
-- **🏆 Achievements:** [Highlight any notable results or features.]
+- **🏆 Achievements:** Successfully migrated over 19 million rows of data from Google Cloud Storage to Azure Data Lake, ensuring data integrity with zero data loss.
 - **🎯 Technologies used:**
     - **Processing Tools:** PySpark
     - **GCP Services:** Google Cloud Storage (GCS), BigQuery
@@ -57,14 +57,14 @@ My goal is to contribute to innovative projects that harness the power of data t
 
 ### 2. [<u>Medallion Data Lakehouse</u>](https://github.com/MekWiset/Medallion_DataLakehouse_project)
 - **ℹ️ Description:** Building a Data Lakehouse using the Medallion architecture.
-- **🏆 Achievements:** [Highlight any notable results or features.]
+- **🏆 Achievements:** Developed a scalable Data Lakehouse architecture using the Medallion framework, facilitating efficient data storage, processing, and analysis with seamless integration across Azure services.
 - **🎯 Technologies used:**
     - **Processing Tools:** DBT (Data Build Tool)
     - **Azure Services:** Azure SQL Database, Azure Data Lake Storage Gen 2, Databricks, Azure Key Vault
 
 ### 3. [<u>Realtime Data Streaming</u>](https://github.com/MekWiset/Realtime_Data_Streaming_project)
 - **ℹ️ Description:** Real-time data ingestion to Cassandra using Airflow, Kafka, and Spark.
-- **🏆 Achievements:** [Highlight any notable results or features.]
+- **🏆 Achievements:** Engineered a robust real-time data streaming pipeline, enabling low-latency data ingestion into Cassandra and ensuring consistent data flow and processing across multiple platforms.
 - **🎯 Technologies used:**
     - **Processing Tools:** PySpark
     - **Orchestration Tools:** Airflow, Kafka, Zookeeper
@@ -72,3 +72,4 @@ My goal is to contribute to innovative projects that harness the power of data t
     - **Storage:** Cassandra
     - **Others:** Docker
 
+---
