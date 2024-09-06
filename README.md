@@ -46,37 +46,38 @@ My goal is to contribute to innovative projects that harness the power of data t
 - **ℹ️ Description:** Big Data Migration from GCP to Azure.
 - **🏆 Achievements:** [Highlight any notable results or features.]
 - **🎯 Technologies used:**
-    - ![Pyspark](https://img.shields.io/badge/PySpark-FFD43B?style=flat&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![GCS](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure Data Lake Storage Gen 2](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white)
-![Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+    - **Processing Tools:**
+        - PySpark
+    - **GCP Services:**
+        - Google Cloud Storage (GCS)
+        - BigQuery
+    - **Azure Services:**
+        - Azure Data Factory
+        - Azure Data Lake Storage Gen 2
+        - Databricks
+        - Azure Key Vault
+    - **Others:**
+        - Docker
 
 ### 2. [<u>Medallion Data Lakehouse</u>](https://github.com/MekWiset/Medallion_DataLakehouse_project)
 - **ℹ️ Description:** Building a Data Lakehouse using the Medallion architecture.
 - **🏆 Achievements:** [Highlight any notable results or features.]
 - **🎯 Technologies used:**
-    - ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-    ![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white)
-    ![Azure SQL DB](https://img.shields.io/badge/Azure%20SQL%20Database-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-    ![ADLS Gen 2](https://img.shields.io/badge/Azure%20Data%20Lake%20Storage%20Gen%202-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-    ![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-    ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-
+    - Azure
+    - Databricks
+    - Azure SQL Database
+    - Azure Data Lake Storage Gen 2 (ADLS Gen 2)
+    - Azure Key Vault
+    - dbt
 
 ### 3. [<u>Realtime Data Streaming</u>](https://github.com/MekWiset/Realtime_Data_Streaming_project)
 - **ℹ️ Description:** Real-time data ingestion to Cassandra using Airflow, Kafka, and Spark.
 - **🏆 Achievements:** [Highlight any notable results or features.]
 - **🎯 Technologies used:**
-    - ![PySpark](https://img.shields.io/badge/PySpark-FFD43B?style=flat&logo=apachespark&logoColor=white)
-    ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-    ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-    ![Zookeeper](https://img.shields.io/badge/Apache%20Zookeeper-000000?style=flat&logo=apachezookeeper&logoColor=white)
-    ![Confluent](https://img.shields.io/badge/Confluent-0072CE?style=flat&logo=confluent&logoColor=white)
-    ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1D1D1D?style=flat&logo=apachecassandra&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+    - PySpark
+    - Airflow
+    - Kafka
+    - Zookeeper
+    - Confluent
+    - Cassandra
+    - Docker
