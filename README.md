@@ -46,38 +46,24 @@ My goal is to contribute to innovative projects that harness the power of data t
 - **ℹ️ Description:** Big Data Migration from GCP to Azure.
 - **🏆 Achievements:** [Highlight any notable results or features.]
 - **🎯 Technologies used:**
-    - **Processing Tools:**
-        - PySpark
-    - **GCP Services:**
-        - Google Cloud Storage (GCS)
-        - BigQuery
-    - **Azure Services:**
-        - Azure Data Factory
-        - Azure Data Lake Storage Gen 2
-        - Databricks
-        - Azure Key Vault
-    - **Others:**
-        - Docker
+    - **Processing Tools:** PySpark
+    - **GCP Services:** Google Cloud Storage (GCS), BigQuery
+    - **Azure Services:** Azure Data Factory, Azure Data Lake Storage Gen 2, Databricks, Key Vault
+    - **Others:** Docker
 
 ### 2. [<u>Medallion Data Lakehouse</u>](https://github.com/MekWiset/Medallion_DataLakehouse_project)
 - **ℹ️ Description:** Building a Data Lakehouse using the Medallion architecture.
 - **🏆 Achievements:** [Highlight any notable results or features.]
 - **🎯 Technologies used:**
-    - Azure
-    - Databricks
-    - Azure SQL Database
-    - Azure Data Lake Storage Gen 2 (ADLS Gen 2)
-    - Azure Key Vault
-    - dbt
+    - **Processing Tools:** DBT (Data Build Tool)
+    - **Azure Services:** Azure SQL Database, Azure Data Lake Storage Gen 2, Databricks, Azure Key Vault
 
 ### 3. [<u>Realtime Data Streaming</u>](https://github.com/MekWiset/Realtime_Data_Streaming_project)
 - **ℹ️ Description:** Real-time data ingestion to Cassandra using Airflow, Kafka, and Spark.
 - **🏆 Achievements:** [Highlight any notable results or features.]
 - **🎯 Technologies used:**
-    - PySpark
-    - Airflow
-    - Kafka
-    - Zookeeper
-    - Confluent
-    - Cassandra
-    - Docker
+    - **Processing Tools:** PySpark
+    - **Orchestration Tools:** Airflow, Kafka, Zookeeper
+    - **Monitoring:** Confluent
+    - **Storage:** Cassandra
+    - **Others:** Docker
