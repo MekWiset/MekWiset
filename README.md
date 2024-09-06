@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mek Siriwat</h1>
+<h1 align="center">Hi there 👋, I'm Mek</h1>
+
+<p align="center">
+    <img src="pic/banner2.png" alt="Banner" />
+</p>
 <h2 align="center">A Passionate Junior Data Engineer</h2>
 
 <p align="left">
@@ -68,4 +72,3 @@ My goal is to contribute to innovative projects that harness the power of data t
     - **Storage:** Cassandra
     - **Others:** Docker
 
-    
