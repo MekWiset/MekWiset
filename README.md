@@ -42,7 +42,18 @@ My goal is to contribute to innovative projects that harness the power of data t
 
 ## 🚀 Featured Projects
 
-### 1. [<u>LiquorSales Data Migration Pipeline</u>](https://github.com/MekWiset/LiquorSales_Data_Migration_Pipeline)
+
+### 2. [<u>Medallion Data Lakehouse</u>](https://github.com/MekWiset/Medallion_DataLakehouse_project)
+- **ℹ️ Description:** Building a Data Lakehouse using the Medallion architecture.
+- **🏆 Achievements:** [Highlight any notable results or features.]
+- **🎯 Technologies used:**
+    - **Processing Tools:** ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+    - **Azure Services:** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+    ![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=flat&logo=databricks&logoColor=white)
+    ![ADLS Gen 2](https://img.shields.io/badge/Azure%20Data%20Lake%20Storage%20Gen%202-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+    ![Azure SQL DB](https://img.shields.io/badge/Azure%20SQL%20Database-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+    ![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+#### 1. [<u>LiquorSales Data Migration Pipeline</u>](https://github.com/MekWiset/LiquorSales_Data_Migration_Pipeline)
 - **ℹ️ Description:** Big Data Migration from GCP to Azure.
 - **🏆 Achievements:** [Highlight any notable results or features.]
 - **🎯 Technologies used:**
