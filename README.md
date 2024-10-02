@@ -71,3 +71,5 @@ My goal is to contribute to innovative projects that harness the power of data t
     - **Monitoring:** Confluent
     - **Storage:** Cassandra
     - **Others:** Docker
+ 
+---
