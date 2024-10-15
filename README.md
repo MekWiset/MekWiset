@@ -17,6 +17,8 @@ My goal is to contribute to innovative projects that harness the power of data t
 
 - ⭐️ View my resume: [Click Here](https://drive.google.com/file/d/1UP6nrpnJiu_JMxbAWhsqxt13RWENKJbf/view?usp=sharing)
 
+- 📍 Current workplace: [Inteltion Co. Ltd.](https://www.inteltion.com)
+
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 
