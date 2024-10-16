@@ -24,7 +24,7 @@ My goal is to contribute to innovative projects that harness the power of data t
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swisetpakdeewong@gmail.com)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@siriwatwisetpakdeewong)
 <!-- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) -->
 
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -45,6 +45,12 @@ My goal is to contribute to innovative projects that harness the power of data t
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### 📝 Recent Medium Articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@siriwatwisetpakdeewong/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@siriwatwisetpakdeewong/0" alt="Recent Article 0"></a>
+<br>
+
+---
 
 
 ## 🚀 Featured Projects
