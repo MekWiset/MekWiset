@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mek</h1>
 
 <p align="center">
-    <img src="pic/banner2.png" alt="Banner" />
+    <img src="pic/banner3" alt="Banner" />
 </p>
 <!-- <h2 align="center">Junior Data Engineer</h2> -->
 
