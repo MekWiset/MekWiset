@@ -6,16 +6,18 @@
 <!-- <h2 align="center">Junior Data Engineer</h2> -->
 
 <p align="left">
-As a passionate Junior Data Engineer, I specialize in leveraging data to drive impactful insights and solutions. I thrive on solving complex data challenges and enjoy working with diverse technologies to optimize data pipelines and workflows. With a strong foundation in data engineering tools and methodologies, I am particularly interested in exploring advancements in data science, cloud computing, and big data analytics. 
+Data Engineer with 2.5 years of experience building and maintaining data pipelines across cloud platforms and large-scale migration projects. Proven track record of delivering technical solutions and leading a sub-team to improve efficiency across complex data workflows while aligning requirements with IT stakeholders.
 
-My goal is to contribute to innovative projects that harness the power of data to create meaningful outcomes and drive progress in various industries.
+
 </p>
 
-- 📫 How to reach me: swisetpakdeewong@gmail.com
+- My Website: [mek-siriwat.vercel.app](https://mek-siriwat.vercel.app)
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/](https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/)
+- 📫 Email: swisetpakdeewong@gmail.com
 
-- ⭐️ View my resume: [Click Here](https://drive.google.com/file/d/1UP6nrpnJiu_JMxbAWhsqxt13RWENKJbf/view?usp=sharing)
+- 📄 Linkedin: [https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/](https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/)
+
+- ⭐️ Resume (Jul-2026): [Click Here](https://drive.google.com/file/d/10dyHfowezDMFahH8WBAxDmle6aRYzp1Z/view?usp=sharing)
 
 
 <h3 align="left">🔗 Connect with me:</h3>
@@ -54,7 +56,7 @@ My goal is to contribute to innovative projects that harness the power of data t
 
 ## 🚀 Featured Projects
 
-### 1. [<u>LiquorSales Data Migration Pipeline</u>](https://github.com/MekWiset/LiquorSales_Data_Migration_Pipeline)
+### 1. [<u>MultiCloud Data Migration Pipeline</u>](https://github.com/MekWiset/LiquorSales_Data_Migration_Pipeline)
 - **ℹ️ Description:** Big Data Migration from GCP to Azure.
 - **🏆 Achievements:** Successfully migrated over 19 million rows of data from Google Cloud Storage to Azure Data Lake, ensuring data integrity with zero data loss.
 - **🎯 Technologies used:**
