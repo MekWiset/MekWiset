@@ -6,12 +6,12 @@
 <!-- <h2 align="center">Junior Data Engineer</h2> -->
 
 <p align="left">
-Data Engineer with 2.5 years of experience building and maintaining data pipelines across cloud platforms and large-scale migration projects. Proven track record of delivering technical solutions and leading a sub-team to improve efficiency across complex data workflows while aligning requirements with IT stakeholders.
+Data Engineer with 2.5 years of experience building and maintaining data pipelines across clouds and large-scale migration projects.
 
 
 </p>
 
-- My Website: [mek-siriwat.vercel.app](https://mek-siriwat.vercel.app)
+- 🚀 My Website: [mek-siriwat.vercel.app](https://mek-siriwat.vercel.app)
 
 - 📫 Email: swisetpakdeewong@gmail.com
 
