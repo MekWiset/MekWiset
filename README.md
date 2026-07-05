@@ -20,13 +20,7 @@ Data Engineer with 2.5 years of experience building and maintaining data pipelin
 - ⭐️ Resume (Jul-2026): [Click Here](https://drive.google.com/file/d/10dyHfowezDMFahH8WBAxDmle6aRYzp1Z/view?usp=sharing)
 
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siriwat-wisetpakdeewong-78b641256/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swisetpakdeewong@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@siriwatwisetpakdeewong)
-<!-- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) -->
+<br>
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
